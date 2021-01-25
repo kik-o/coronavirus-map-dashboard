@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-leaflet",
-  "description": "A Gatsby starter with Leafet!",
+  "name": "coronavirus-map-dashboard",
+  "description": "A Gatsby and Leafet powered COVID 19 dashboard!",
   "version": "0.2.2",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Kiko Estrada <me@kikoestrada.com>",
   "dependencies": {
     "axios": "^0.19.2",
     "gatsby": "^2.24.47",
@@ -68,9 +68,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/colbyfayock/gatsby-starter-leaflet"
+    "url": "https://github.com/kik-o/coronavirus-map-dashboard"
   },
   "bugs": {
-    "url": "https://github.com/colbyfayock/gatsby-starter-leaflet/issues"
+    "url": "https://github.com/kik-o/coronavirus-map-dashboard/issues"
   }
 }
